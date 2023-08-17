@@ -1,4 +1,4 @@
-"# Snake Game
+# Snake Game
 
 This project is a simple implementation of the classic Snake game using the Python Turtle graphics library.
 
